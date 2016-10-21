@@ -3,5 +3,5 @@
 * [Static Sites](technology/static-site-generation.md)
 * [Introduction](README.md)
 * [Tags](tags.md)
-* GraphQL
+* [GraphQL](technology/graphql.md)
 
