@@ -11,7 +11,7 @@
     ],
     "pluginsConfig": {
         "tags": {
-            "placement": "bottom"
+            "placement": "top"
         },
         "sitemap": {
             "hostname": "http://mybook.com/"

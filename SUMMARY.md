@@ -1,8 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
-* [Tags](tags.md)
-
 ## Technology
 
-* [Static Sites](technology/static-sites.md)
+* [Static Sites](technology/static-site-generation.md)
+
+## General
+* [Introduction](README.md)
+* [Tags](tags.md)

@@ -1,5 +1,3 @@
-# Introduction
+## A Curated Collection of Resources Organized by Topic
 
-Hi
-
-tags: general
+See also the [tags](tags.md) page for tag-based organization.
