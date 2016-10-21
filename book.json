@@ -1,0 +1,20 @@
+{
+    "title": "Card Catalog",
+    "author": "Sean Fisher",
+    "language": "en",
+    "gitbook": ">= 3.2.2",
+    "plugins": [
+        "tags",
+        "sitemap",
+        "anchors",
+        "theme-faq"
+    ],
+    "pluginsConfig": {
+        "tags": {
+            "placement": "bottom"
+        },
+        "sitemap": {
+            "hostname": "http://mybook.com/"
+        }
+    }
+}
