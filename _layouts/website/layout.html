@@ -1,0 +1,11 @@
+{% extends template.self %}
+
+{% block body %}
+    {{ super() }}
+{% endblock %}
+
+{% block faq_footer %}
+    <div class="faq-page-footer">
+        <span>Last edited {{ file.mtime|date('MMM Do YYYY') }}</span>
+    </div>
+{% endblock %}
