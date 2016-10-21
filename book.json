@@ -8,14 +8,15 @@
         "sitemap",
         "anchors",
         "theme-faq",
-        "video"
+        "video",
+        "-sharing"
     ],
     "pluginsConfig": {
         "tags": {
             "placement": "top"
         },
         "sitemap": {
-            "hostname": "http://mybook.com/"
+            "hostname": "https://card-catalog.seafish.io/"
         }
     }
 }

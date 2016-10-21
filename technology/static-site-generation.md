@@ -9,3 +9,8 @@ A static site generator lets you write structured content which is then transfor
 
 - [StaticGen](https://staticgen.com) - A live view of the most popular open-source static site generators, broken down by technology, templating language, and license.
 
+## Where to publish?
+
+- AWS S3 (pennies/month)
+- [Netlify (free plan)](https://www.netlify.com/)
+- [Surge (free plan)](https://surge.sh)
